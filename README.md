@@ -2,6 +2,7 @@
 # Monkees Band Website
 This project is a website for the Monkees Band. 
 
+
 ## Content Table
 
 1. [UX](#UX)
@@ -20,11 +21,9 @@ This project is a website for the Monkees Band.
 ## UX
 
 1. This Website is for the Monkees Band who want to connect with fans and potential fans through:
-    +  Latest news about the band
+    +  Latest Events about the band
     +  Information about tours and concert dates
-    +  Getting to know the Band and its members through profiling
-    +  Visitors will be able to Join the Fanclub or login to their account if they are already part of the Fanclub
-    +  The is also an option to sign up for newsletters
+    +  Getting the feedback from the fans 
     +  Visitors will also be able to follow the band via official social media handles
     
 2. Sales: On this website visitor will be able to: 
@@ -36,7 +35,7 @@ This project is a website for the Monkees Band.
 3. Colours : I selected black as the theme color of the website because "Black adds a sense of luxury and value" and “ Black is timeless & classic”. Also yellow, gold and orange give a mix of excitement and attention to the important information and the buttons to buy
 4. Pages : Instead of having a home page, then tours page and news page i decided to have all these important features on the same page. This was meant to make the home page informative at first glance and it was also meant limit the number of pages that were going to be on the website. I didn't want the users to have too many pages to go through and end up boring them or making the user lose interest. More over the shop caters for all the purchases the user/fans may want from merchandise, downloading and music ordering.
 5. Other UX : I put a hovering effect on the first back ground photo to give users a good experience when the mouse hovers over the picture or the booking button. As a user i wouldn't want a website that gives information and get me involved as a fan as well which i think both these matter have been addressed through the sign up for newsletter and joining the fan club. 
-6. Mock up : https://app.moqups.com//tdchipatiko07@gmail.com/7aw4CB4xje/edit/page/ad64222d5 
+
 
 
 ## Features
